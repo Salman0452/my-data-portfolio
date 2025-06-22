@@ -16,3 +16,7 @@ This project explores and visualizes a dataset of Netflix shows and movies to id
 
 ### 📁 Dataset:
 Netflix Movies & TV Shows dataset from Kaggle
+
+### 🎥 Content added each year
+![Content Added Histogram](content_added_hist.png)
+
