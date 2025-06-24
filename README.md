@@ -18,8 +18,8 @@ I update this repo daily with new work as I continue learning.
 | [🚢 Titanic Survival Analysis](./titanic-analysis) | Analyzed survival trends based on gender, class, and age | Pandas, Matplotlib |
 | [🌸 Iris Flower Classification](./iris-flower-analysis) | Visualized patterns in sepal/petal features by species | Pandas, Seaborn |
 | [💸 Startup Funding Analysis](./startup-funding-analysis) | Cleaned investment data and visualized funding trends | Pandas, Seaborn, NumPy |
-| [💸 Mental Health Analysis](./mental-health-analysis) | Cleaned data and visualized mental health benefits | Pandas, Seaborn, NumPy |
-| [💸 Playstore Apps Analysis](./playstore-app-analysis) | Cleaned data, feature engineering and visualized trending apps by ratings reviews, installs | Pandas, Seaborn, NumPy |
+| [🧠 Mental Health Analysis](./mental-health-analysis) | Cleaned data and visualized mental health benefits | Pandas, Seaborn, NumPy |
+| [📱 Playstore Apps Analysis](./playstore-app-analysis) | Cleaned data, feature engineering and visualized trending apps by ratings reviews, installs | Pandas, Seaborn, NumPy |
 
 ---
 
